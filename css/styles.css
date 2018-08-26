@@ -1,0 +1,15 @@
+.intro {
+  text-align: center;
+}
+
+.subheading {
+  font-family: fantasy;
+}
+
+
+.ingredients {
+  float:left;
+}
+ul {
+  overflow: hidden;
+}
