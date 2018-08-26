@@ -13,3 +13,7 @@
 ul {
   overflow: hidden;
 }
+
+body {
+  background-color: gray;
+}
